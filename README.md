@@ -3,3 +3,4 @@
 Admissions
 Fees
 Exams
+Attendence
